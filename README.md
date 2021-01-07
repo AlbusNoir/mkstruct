@@ -55,7 +55,7 @@ User | Contribution | Emoji!
 - [x] Make the GUI WORK
 - [ ] Plan directories
 - [ ] Options to add directories to the preconfig'd lists?
-- [ ] Info button in upper right
+- [x] Info button in upper right
 - [ ] Ref item 4: can prob be done by pulling in a json file for the directories/sub-directories
 
 ## Contact
