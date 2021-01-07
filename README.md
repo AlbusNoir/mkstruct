@@ -1,0 +1,2 @@
+# mkstruct
+Directory structure maker
