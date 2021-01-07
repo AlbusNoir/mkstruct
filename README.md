@@ -28,7 +28,7 @@ To use MkStruct, follow these steps:
 
 MkStruct is a standalone GUI based program. Use is incredibly simple and straightforward.
 
-![](https://1drv.ms/u/s!AtMfx00gu1phk5smwKBuT3CO9Fgzxg?e=u6ZapR)
+![](https://puu.sh/H4vlT/3db1c012be.gif)
 
 ## Contributing to MkStruct
 To contribute to MkStruct, follow these steps:
