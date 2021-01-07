@@ -4,7 +4,7 @@
 ![GitHub contributors](https://img.shields.io/github/contributors/AlbusNoir/mkstruct?style=plastic&logo=appveyor)
 ![GitHub stars](https://img.shields.io/github/stars/AlbusNoir/mkstruct?style=social)
 ![GitHub forks](https://img.shields.io/github/forks/AlbusNoir/mkstruct?style=social)
-![Twitter Follow](https://img.shields.io/twitter/follow/KaleLeafyGreen?style=social&link=http://twitter.com/kaleleafygreen&link=http://twitter.com/kaleleafygreen)
+![Twitter Follow](https://img.shields.io/twitter/follow/KaleLeafyGreen?style=social&link=https://twitter.com/kaleleafygreen&link=https://twitter.com/kaleleafygreen)
 ![License](https://img.shields.io/badge/license-MIT-blue?style=plastic&logo=appveyor)
 ![Python-Version](https://img.shields.io/badge/Python-3.8-blueviolet?style=plastic&logo=appveyor)
 
@@ -27,6 +27,8 @@ Download from this repo and run it
 To use MkStruct, follow these steps:
 
 MkStruct is a standalone GUI based program. Use is incredibly simple and straightforward.
+
+![](https://1drv.ms/u/s!AtMfx00gu1phk5smwKBuT3CO9Fgzxg?e=u6ZapR)
 
 ## Contributing to MkStruct
 To contribute to MkStruct, follow these steps:
